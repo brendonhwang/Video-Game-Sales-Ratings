@@ -30,3 +30,7 @@ As a result, Wii Sports retains its position as the number one global sale, foll
 The issue of data misrepresentation has been addressed through rigorous data cleaning, manipulation, and mapping processes. 
 By creating a game name reference table, we ensure a more accurate representation of the top global sales, considering both the game name and the number of platforms. 
 This approach aims to provide a clearer and unbiased view of the data, mitigating potential misinterpretations that could arise from the original raw data structure.
+
+#### Scripts for analysis
+
+![4](https://github.com/brendonhwang/Video-Game-Sales-Ratings/assets/155376651/64c70934-75be-42f8-a027-37eaf56e4dc3)
