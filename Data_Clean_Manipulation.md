@@ -30,8 +30,9 @@ Identifying and removing duplicate records or rows from the dataset.
 I did not find any duplicate records, but I observed duplicate game names due to the data being listed by both game name and platform. 
 Consequently, I opted to create a reference table based on game names. I established a game name reference table to map and generate an additional view.
 
-![c2](https://github.com/brendonhwang/Video-Game-Sales-Ratings/assets/155376651/0a0a9c5f-ef1a-4400-9f48-208d37cdc3ed)
+As a result, "Grand Theft Auto V" holds a global sales rank of #2, with specific rankings for different platforms: #17 for PS3, #24 for X360, #43 for PS4, #179 for XOne, and #1,723 for PC.
 
+![s8](https://github.com/brendonhwang/Video-Game-Sales-Ratings/assets/155376651/43c5409d-4e74-4d88-a5b9-84d5b8944f09)
 
 
 #
