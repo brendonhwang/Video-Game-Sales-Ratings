@@ -4,17 +4,14 @@
 Identifying and filling in missing data points using appropriate methods. 
 I replaced null values with Data Not Available.
 
-![c1](https://github.com/brendonhwang/Video-Game-Sales-Ratings/assets/155376651/8d76d52d-e803-460d-83fd-aa0249c2569b)
+![c1](https://github.com/brendonhwang/Video-Game-Sales-Ratings/assets/155376651/4ddfdac3-945e-423e-b382-cd3a7b1d77cf)
 
 #
 
-### 2. Removing Duplicates:
-Identifying and removing duplicate records or rows from the dataset. 
-I did not find any duplicate records, but I observed duplicate game names due to the data being listed by both game name and platform. 
-Consequently, I opted to create a reference table based on game names. I established a game name reference table to map and generate an additional view.
+### 2. Removing Special Character:
+Identifying and removing special characters or rows from the dataset. 
 
-![c2](https://github.com/brendonhwang/Video-Game-Sales-Ratings/assets/155376651/0a0a9c5f-ef1a-4400-9f48-208d37cdc3ed)
-
+![c2](https://github.com/brendonhwang/Video-Game-Sales-Ratings/assets/155376651/6aab2a02-8189-47e3-893b-f034f35d735b)
 
 #
 
@@ -23,11 +20,22 @@ Ensuring consistent formats for dates, numbers, and other data types.
 As a result, Wii Sports retains its position as the number one global sale, followed by Grand Theft Auto V. The latter's high ranking is primarily attributed to its availability on five different platforms.
 I standardized the User_Score field format by removing "tbd" and converted the field to numeric.
 
-![c3](https://github.com/brendonhwang/Video-Game-Sales-Ratings/assets/155376651/e899ba8e-db5b-4bc3-8c1f-90b76a6b847e)
+![s4](https://github.com/brendonhwang/Video-Game-Sales-Ratings/assets/155376651/5232d0de-ddb4-4c7d-96be-74b15022c7ad)
 
 #
 
-### 4. Transforming Data:
+### 4. Removing Duplicates:
+Identifying and removing duplicate records or rows from the dataset. 
+I did not find any duplicate records, but I observed duplicate game names due to the data being listed by both game name and platform. 
+Consequently, I opted to create a reference table based on game names. I established a game name reference table to map and generate an additional view.
+
+![c2](https://github.com/brendonhwang/Video-Game-Sales-Ratings/assets/155376651/0a0a9c5f-ef1a-4400-9f48-208d37cdc3ed)
+
+
+
+#
+
+### 5. Transforming Data:
 Converting data into scales.  I grouped the game year release field by decade and created a new category field.
 
 ![c4](https://github.com/brendonhwang/Video-Game-Sales-Ratings/assets/155376651/16654537-1897-4999-a6ab-95c59e077542)
