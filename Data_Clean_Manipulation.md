@@ -39,19 +39,19 @@ Consequently, I opted to create a reference table based on game names. I establi
 ### 5. Transforming Data:
 Converting data into scales.  I grouped the game year release field by decade and created a new category field.
 
-![c4](https://github.com/brendonhwang/Video-Game-Sales-Ratings/assets/155376651/16654537-1897-4999-a6ab-95c59e077542)
+![s5](https://github.com/brendonhwang/Video-Game-Sales-Ratings/assets/155376651/a09fccd7-e5e0-404a-bde5-d4d22f7e41af)
 
 #
 Here's another example: I transformed the critic score by dividing it by 2 and then by 100 to obtain a critic score star, akin to online product ratings. I applied a similar concept to the user score.
 
-![c5](https://github.com/brendonhwang/Video-Game-Sales-Ratings/assets/155376651/8cd78ad7-e9df-495a-86da-7837dcc8e253)
+![s7](https://github.com/brendonhwang/Video-Game-Sales-Ratings/assets/155376651/58b458d0-8bc4-4d1e-af04-0191f542077d)
+
 
 #
 I've established a field to measure the global sales rank, but this data is specific to "game and platform". 
 To view the global sales rank by game, I intend to enhance the measurement further by creating a game name reference table that will allow for mapping and aggregating the data based on the game names.
 
-![c7](https://github.com/brendonhwang/Video-Game-Sales-Ratings/assets/155376651/30e1e661-63b9-49e3-8a48-df53011f00e3)
-
+![s6](https://github.com/brendonhwang/Video-Game-Sales-Ratings/assets/155376651/389d99f0-b11b-49d9-8916-0ef19d505260)
 
 #### Lesson Learned: 
 The issue of data misrepresentation has been addressed through rigorous data cleaning, manipulation, and mapping processes. 
