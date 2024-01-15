@@ -1,4 +1,6 @@
 #  Data clean, Data Manipulation after Import Raw Data 
+*The complete document or additional details are available upon request.*
+
 Before I manipulated data into meaningful insight, I first cleaned the original raw data.  The data cleaning process involves inspecting the dataset for structure, handling missing values, checking and removing duplicates and outliers, removing special characters, formatting standardization, transforming data, feature engineering, and conducting final validation for quality assurance.  Here are some sample data cleaning:
 
 ### 1. Handling Missing Values:
