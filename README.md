@@ -1,4 +1,7 @@
+
 # Video-Game-Sales-Ratings
+<img align="center" src=https://www.petra.com/wp-content/uploads/2021/10/Video-game-sales-P_1130x430.jpg>
+
 
 ## 1. Project Overview and Objective
 This project aims to convert raw data named "Video Game Sale and Rating" into a refined format suitable for data warehouses, providing meaningful insights for data analysts, and facilitating user-friendly features for data visualization. By employing techniques such as data cleansing, normalization, and manipulation, the objective is to uncover significant patterns, trends, and key metrics from the raw data. The incorporation of supplementary fields will empower users to create dashboards, enabling the communication of compelling narratives to a broader audience.
