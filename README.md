@@ -14,7 +14,7 @@ For this project, I opted to give precedence to the gathering of requirements an
 * Requirement Gathering and Document	 12/26/23 - 1/1/24
 * Data Inspection / Data Clean (ETL)	 1/2/24 - 1/10/24
 * Development (New Data Structure)	   1/11/24 - 1/15/24
-* Testing	                             1/16-24 - 1/19/24
+* Testing	 (Data Quality Assurance)    1/16-24 - 1/19/24
 * Implementation	                     1/20/24
 
 ####  1.2 Resources
