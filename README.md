@@ -23,7 +23,7 @@ For this project, I opted to give precedence to the gathering of requirements an
 
 ## 2. Data Clean and ETL Process
 The following tasks outline the necessary steps to transform raw data into meaningful information. This list also specifies the data quality standards, emphasizing the need for cleaning and modification.
-* 2.1. Define Data Cleaning Objectives
+* 2.1. Define Data Cleaning Objectives and General Inspection
 * 2.2. Data Inspection
 * 2.3. Handle Missing Values
 * 2.4. Remove Duplicates
@@ -34,8 +34,14 @@ The following tasks outline the necessary steps to transform raw data into meani
 * 2.9. Feature Engineering
 * 2.10. Quality Assurance
 
-## 3. Supporting Documents
-* 3.1 Create Data Dictionary
+## 3. Data Manipulation and Engineering
+* 3.1 Reference Tables
+* 3.2 Create Table for Game Name and Platform
+* 3.3 Create views
+* 3.4 Data Structure Design
+* 3.5 Create Data Dictionary
 
-
+## 4. Quality Assurance and Data Analysis
+* 4.1 Quality Assurance
+* 4.2 Data Analysis
 *The complete document or additional details are available upon request.*
