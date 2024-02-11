@@ -1,6 +1,6 @@
 
 # Video-Game-Sales-Ratings
-<img align="center" src=https://www.petra.com/wp-content/uploads/2021/10/Video-game-sales-P_1130x430.jpg>
+<img align="center" src=https://media.wired.com/photos/62feb60bcea7c0581e825cb0/master/w_1920,c_limit/Fate-of-Game-Preservation-Games-GettyImages-1170073827.jpg>
 
 
 ## 1. Project Overview and Objective
